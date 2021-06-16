@@ -1,3 +1,6 @@
 [submodule "back-end-site"]
 	path = back-end-site
 	url = https://github.com/NonnaKar/back-end-site
+[submodule "front-end-site"]
+	path = front-end-site
+	url = https://github.com/NonnaKar/front-end-site
